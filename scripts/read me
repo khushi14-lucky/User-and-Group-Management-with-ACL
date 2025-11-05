@@ -1,0 +1,12 @@
+# User and Group Management with ACL in Linux
+
+## Aim
+To manage users, groups, and file access permissions in a Linux environment using command-line tools.
+
+## Project Structure
+- scripts/users.sh → User and group setup commands
+- scripts/acl.sh → Access Control List (ACL) commands
+
+## Tools & Commands Used
+- Linux OS: Ubuntu
+- Commands: useradd, usermod, passwd, groupadd, chown, chmod, setfacl, getfacl
